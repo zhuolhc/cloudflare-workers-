@@ -3,7 +3,7 @@
 
 **cloudflart workers verify**
 
-基于cloudflare workers生成两个网页，一个用于生成一个六位的验证码，另一个用于验证，验证成功即可跳转至网页的下一个界面。<a href="generate.zhuoc.link">生成演示web</a> <a href="verify.zhuoc.link">验证演示web</a>
+基于cloudflare workers生成两个网页，一个用于生成一个六位的验证码，另一个用于验证，验证成功即可跳转至网页的下一个界面。<a href="httpa://generate.zhuoc.link">生成演示web</a> <a href="https://verify.zhuoc.link">验证演示web</a>
 
 **deploy**
 
