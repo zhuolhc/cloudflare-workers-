@@ -18,7 +18,7 @@ async function handleRequest(request) {
     const storedCode = await getCodeFromKV();
 
     if (userCode === storedCode) {
-      // 验证成功，可以进入第二个网站
+      // 验证成功，可以进入第二个网站(以百度为例，测试下来第一个是静态页面，多点几下就是官方页面)
       return fetch('https://www.baidu.com');
     } else {
       // 验证失败，返回错误提示页面
