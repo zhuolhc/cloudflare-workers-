@@ -20,6 +20,7 @@ async function handleRequest(request) {
   //'Content-Type': 'text/html',
   //'Cache-Control': 'max-age=60' // 设置缓存一分钟
   //};
+  //这里就是可能能解决问题的地方
   
   return new Response(htmlResponse, {
     headers: { 'Content-Type': 'text/html' },
