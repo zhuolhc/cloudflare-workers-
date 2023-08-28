@@ -5,7 +5,7 @@
 
 基于cloudflare workers生成两个网页，一个用于生成一个六位的验证码，另一个用于验证，验证成功即可跳转至网页的下一个界面。<a href="https://generate.zhuoc.top">generate演示</a> <a href="https://verify.zhuoc.link">verify演示web</a>
 
-***deploy***
+**deploy**
 
 本项目需要部署两个workers，部署过程可以参考本人另外一个项目 <a href="https://github.com/zhuolhc/cloudflare-workers-GET-IP">GET IP</a>
 
