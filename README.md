@@ -13,7 +13,7 @@
 
 **remind**
 
-1、本项目存在瑕疵，在cloudflare workers工作台内的网页验证码可以完美适配第二个网站，但是拉出来的网页不能，经过DNS解析后的网站又可以。目前未找出原因，经过kv数据库内密钥持续刷新与实时验证码对比初步判断为缓存问题。欢迎 pull requests。my email:a@zhuoc.link 
+1、本项目存在瑕疵，在cloudflare workers工作台内的网页验证码可以完美适配第二个网站，但是拉出来的网页不能，经过DNS解析后的网站又可以。目前未找出原因，经过kv数据库内密钥持续刷新与实时验证码对比初步判断为缓存问题。欢迎 <a href="https://github.com/zhuolhc/cloudflare-workers-verification-code-send-and-verify/pulls">pull requests</a>。my email:a@zhuoc.link 
 
 2、代码中设置了会删除之前存在的验证码，之前的验证码并不能通过，可自行修改。
 
