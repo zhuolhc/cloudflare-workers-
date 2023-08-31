@@ -3,7 +3,7 @@
 
 **cloudflart workers verify**
 
-基于cloudflare workers,无需服务器，生成两个网页，一个用于生成一个六位的验证码，另一个用于验证，验证成功即可跳转至网页的下一个界面。<a href="https://generate.zhuoc.top">generate演示</a> <a href="https://verify.zhuoc.link">verify演示web</a> (generate域名在部分地区被强了😡😡😡)。 第一个点不进点这个<a href="https://generate.zhuoc.link">generate演示2</a>
+基于cloudflare workers,无需服务器，生成两个网页，一个用于生成一个六位的验证码，另一个用于验证，验证成功即可跳转至网页的下一个界面。<a href="https://generate.zhuoc.top">generate演示</a> <a href="https://verify.zhuoc.link">verify演示web</a> (generate域名在部分地区被强了)。 第一个点不进点这个<a href="https://generate.zhuoc.link">generate演示2</a>
 
 **deploy**
 
